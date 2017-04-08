@@ -13,7 +13,7 @@ require_once('accordion.class.php');
     #ft{text-align: left;padding:1em 0;color: #32B08F;}
     #ft a{color: #fff}
    </style>
-   <script type="text/javascript" src="http://davidwalsh.name/dw-content/moo1.2.js"></script>
+   <script type="text/javascript" src="src/mootools.js"></script>
 </head>
 <body>
 <div id="doc" class="yui-t7">
